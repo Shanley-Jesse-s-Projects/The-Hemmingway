@@ -6,3 +6,6 @@ The Robotic Cat Paw simulates kinematics and dynamics of a polydactyl cat paw wi
 
 The Matlab code was done by Shanley Mullen
 The Matlab GUI and CAD was done by Jesse Rosart-Brodnitz
+
+The final Presentation can be seen here:
+https://www.canva.com/design/DADzRHtJG3w/zgqjgshuYOLVB426KWfIVw/view?utm_content=DADzRHtJG3w&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
